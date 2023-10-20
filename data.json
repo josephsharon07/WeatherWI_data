@@ -36,5 +36,6 @@
             "git": "https://api.github.com/repos/josephsharon07/IBM_Project/git/blobs/6f6f5ac3ba1fa54d402b37bcfed60558f16272dd",
             "html": "https://github.com/josephsharon07/IBM_Project/blob/main/data.json"
         }
-    }
+    },
+    "2023-10-20 11:54": "{'temperature': '50', 'humidity': '50', 'light_intensity': '50'}"
 }
